@@ -19,7 +19,7 @@ An AI-powered Question Answering system built on Swiggy's Annual Report FY 2023-
 
 ## Documentation Source
 The data used in this application is the publicly available **Swiggy Annual Report FY 2023-24**.
-- **Source Link**: [Swiggy Annual Report FY 2023-24](https://www.swiggy.com/corporate-governance)
+- **Source Link**: [Swiggy Annual Report FY 2023-24]([https://www.swiggy.com/corporate-governance](https://www.swiggy.com/corporate/wp-content/uploads/2024/10/Annual-Report-FY-2023-24-1.pdf))
 
 ## Installation
 
